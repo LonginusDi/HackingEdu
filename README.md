@@ -7,10 +7,10 @@
 2. `npm install`
 
 3. `npm run build` : `webpack --minimize`,
-4. 
-⋅⋅⋅`npm run dev` : `webpack-dev-server --inline --hot --host localhost`,
+
+   `npm run dev` : `webpack-dev-server --inline --hot --host localhost`,
     
-⋅⋅⋅`npm run prod` : `http-server -p 8080`,
+   `npm run prod` : `http-server -p 8080`,
     
-⋅⋅⋅`npm run test` : `jest`
+   `npm run test` : `jest`
     
