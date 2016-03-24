@@ -7,7 +7,7 @@
 2. npm install  
 
 3. npm run
-    * "build": "webpack --minimize",
+    * "build": `"webpack --minimize"`,
     
     * "dev": "webpack-dev-server --inline --hot --host localhost",
     
