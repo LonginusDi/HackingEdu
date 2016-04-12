@@ -15,5 +15,4 @@
 
     6. Enable rewrite_module in WAMP's Apache modules  
 
-    7. Adjust git line setting by `git config --global core.autocrlf true`  
-
+    7. Adjust git line setting by git config --global core.autocrlf true
